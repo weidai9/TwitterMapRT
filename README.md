@@ -15,7 +15,7 @@ In the repo are three seperate projects: TwitterMap and TwitterGetter. TwitterGe
 
 Required Environment and Software
 ---------------------------------
-Demo page: http://twittermap2014-wdyw.elasticbeanstalk.com/
+Demo page: http://twittermap7.elasticbeanstalk.com/main
 Libraries used in TwitterMap: Google Map API v3, AWS SDK for java, Apache commons-lang-3-3.3.2 library, Json library.
 Libraries used in TwitterScrape: AWS SDK for java, twitter4j.jar library.
 
